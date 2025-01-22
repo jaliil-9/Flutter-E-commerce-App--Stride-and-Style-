@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810645472354",
+    "project_id": "stride-and-style",
+    "storage_bucket": "stride-and-style.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810645472354:android:25a6c5c81d71d170d27d3b",
+        "android_client_info": {
+          "package_name": "com.example.stride_style_ecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqy86z5ZW0AUIUlVvQvJjDTLo1hcMhrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
