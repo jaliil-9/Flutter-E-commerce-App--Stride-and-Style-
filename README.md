@@ -28,28 +28,6 @@ Explore the key screens below:
 </details>
 
 <details>
-<summary><strong>Cart Management</strong></summary>
-
-<div align="center">
-  <img src="assets/screenshots/management/cart.jpg" alt="Cart" width="150">
-  <img src="assets/screenshots/management/order-review.jpg" alt="Order Review" width="150">
-  <img src="assets/screenshots/management/orders.jpg" alt="Orders" width="150">
-  <img src="assets/screenshots/management/addresses.jpg" alt="Addresses" width="150">
-  <img src="assets/screenshots/management/payment-methods.jpg" alt="Payment Methods" width="150">
-</div>
-
-</details>
-
-<details>
-<summary><strong>Favorites</strong></summary>
-
-<div align="center">
-  <img src="assets/screenshots/store/favorites.jpg" alt="Favorites" width="150">
-</div>
-
-</details>
-
-<details>
 <summary><strong>Home</strong></summary>
 
 <div align="center">
@@ -70,6 +48,16 @@ Explore the key screens below:
 
 </details>
 
+
+<details>
+<summary><strong>Favorites</strong></summary>
+
+<div align="center">
+  <img src="assets/screenshots/store/favorites.jpg" alt="Favorites" width="150">
+</div>
+
+</details>
+
 <details>
 <summary><strong>Products</strong></summary>
 
@@ -83,6 +71,20 @@ Explore the key screens below:
 </div>
 
 </details>
+
+<details>
+<summary><strong>Cart Management</strong></summary>
+
+<div align="center">
+  <img src="assets/screenshots/management/cart.jpg" alt="Cart" width="150">
+  <img src="assets/screenshots/management/order-review.jpg" alt="Order Review" width="150">
+  <img src="assets/screenshots/management/orders.jpg" alt="Orders" width="150">
+  <img src="assets/screenshots/management/addresses.jpg" alt="Addresses" width="150">
+  <img src="assets/screenshots/management/payment-methods.jpg" alt="Payment Methods" width="150">
+</div>
+
+</details>
+
 
 <details>
 <summary><strong>Profile</strong></summary>
