@@ -3,7 +3,7 @@
 # Technical Documentation
 
 ## Architecture Overview
-
+```
 stride_and_style/
 ├── lib/
 │   ├── commons/             # Common reusable UI components
@@ -50,6 +50,8 @@ stride_and_style/
 │   ├── app.dart             # App-level configurations and initialization
 │   ├── navigation.dart      # Centralized navigation management
 │   └── firebase_options.dart # Firebase project configuration
+```
+
 
 ## Dependencies
 ```yaml
@@ -81,4 +83,6 @@ dependencies:
   firebase_storage: [^12.3.7]
   cached_network_image: [^3.4.1]
   path: [^1.9.0]
+```
+
 
