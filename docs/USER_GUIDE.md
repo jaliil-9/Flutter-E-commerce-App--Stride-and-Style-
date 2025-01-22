@@ -3,9 +3,8 @@
 ## Getting Started  
 
 ### Installation  
-1. Download **Stride & Style** from [installation source].  
-2. Sign up using your email or Google account.  
-3. Verify your email if you choose email registration.  
+1. Sign up using your email or Google account.  
+2. Verify your email if you choose email registration.  
 
 ### Basic Navigation  
 - **Store**: Explore products from the store icon.  
