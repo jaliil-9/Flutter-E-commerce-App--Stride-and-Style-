@@ -62,7 +62,7 @@ Explore the key screens below:
 <summary><strong>Products</strong></summary>
 
 <div align="center">
-  <img src="assets/screenshots/store/category-products-1.jpg" alt="Category Products 1" width="150">
+  <img src="https://github.com/jaliil-9/Flutter-E-commerce-App--Stride-and-Style-/blob/master/assets/screenshots/store/category-products1.jpg" alt="Category Products 1" width="150">
   <img src="assets/screenshots/store/category-products-2.jpg" alt="Category Products 2" width="150">
   <img src="assets/screenshots/store/category-products-3.jpg" alt="Category Products 3" width="150">
   <img src="assets/screenshots/store/product-details.jpg" alt="Product Details 1" width="150">
