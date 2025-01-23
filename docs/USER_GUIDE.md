@@ -3,7 +3,7 @@
 ## Getting Started  
 
 ### Installation  
-1. Download the app from [this drive link](https://drive.google.com/file/d/1v9B6bKQPwBGRlbTGvC98UdlRS_smFMDj/view?usp=drive_link) (it's safe, don't worry).
+1. Download the app from [this drive link](https://drive.google.com/file/d/1SMOcpmq1UX9w4JpVZjM6x2qbxiFz08LA/view?usp=drive_link) (it's safe, don't worry).
 2. Sign up using your email or Google account.  
 3. Verify your email if you choose email registration.  
 
