@@ -12,7 +12,7 @@
 
 Stride & Style is a modern, cross-platform e-commerce application designed to demonstrate the capabilities of Flutter in building functional and aesthetically pleasing e-commerce apps. Created as an educational project, this app showcases features like authentication, cart and favorites management, product sorting, checkout, and user profile setup while catering to a wide variety of men's footwear options, including sneakers, boots, classic shoes, and regular shoes.
 
-You can explore the key features of this app by doanloading it from this [Drive Link](https://drive.google.com/file/d/1SMOcpmq1UX9w4JpVZjM6x2qbxiFz08LA/view?usp=drive_link), or you can check the screenshots below:
+You can explore the key features of this app by downloading it from this [Drive Link](https://drive.google.com/file/d/1SMOcpmq1UX9w4JpVZjM6x2qbxiFz08LA/view?usp=drive_link), or you can check the screenshots below:
 
 <details>
 <summary><strong>Authentication</strong></summary>
